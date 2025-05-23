@@ -14,6 +14,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Damian5314&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Damian5314=millecodex&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Damian5314&icon=0&color=0)](https://visitcount.itsvg.in)
