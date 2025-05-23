@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
-<h3 align="center">A passionate developer from The Netherlands</h3>
+<h3 align="center">A passionate developer from the Netherlands</h3>
 
 
 ## 🌐 Socials:
